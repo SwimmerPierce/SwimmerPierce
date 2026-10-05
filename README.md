@@ -6,9 +6,9 @@ Bridging the gap between technical execution and revenue generation. I combine h
 
 ### 🛠️ Tech Stack & Tooling
 
+* **AI & Agentic Workflows:** OpenClaw, Google Antigravity CLI, Gemini CLI, Claude Code, Cursor, GBrain, Advanced Prompt Engineering, Interpretable Context Methodology (ICM)
 * **Languages & Scripting:** Python, JavaScript, Node.js
 * **Infrastructure & Automation:** Docker, Git, Supabase, Vercel, n8n, Playwright
-* **AI & Agentic Workflows:** OpenClaw, Google Antigravity CLI, Gemini CLI, Claude Code, Cursor, GBrain, Advanced Prompt Engineering
 * **Business Operations & CRM Tech:** Zoho CRM, Power Broker, API Integrations
 
 ---
