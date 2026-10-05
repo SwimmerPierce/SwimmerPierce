@@ -32,7 +32,7 @@ Most companies struggle with a massive gap between their software engineering an
 
 I am available for fractional GTM consulting to help B2B companies upgrade their technical acquisition infrastructure. 
 
-* **LinkedIn:** [[Say Hi!]](https://www.linkedin.com/in/chase-addison/)
+* **LinkedIn:** [Say Hi!](https://www.linkedin.com/in/chase-addison/)
   
 <!--
 * **Email:** [Insert Your Email]
